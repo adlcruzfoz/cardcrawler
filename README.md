@@ -10,6 +10,11 @@
 
 ###
 
+<p align="left">To play CardCrawler, simply run the program. The game is displayed and controlled through the console.</p>
+
+
+###
+
 <h3 align="left">Moving through The Dungeon</h3>
 
 ###
